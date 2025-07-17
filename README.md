@@ -47,7 +47,6 @@ Here are some of the key books I'm following (from your collection):
 | Learn Python The Hard Way (3rd Edition) by Zed Shaw                   | 
 | Black Hat Python by Justin Seitz                                     | 
 
-> *Note: Cover previews are stored in `./assets/` directory.*
 
 ---
 
